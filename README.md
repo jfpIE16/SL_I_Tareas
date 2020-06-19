@@ -7,7 +7,7 @@ Implementación del algoritmo regresión lineal simple utilizando la herramienta
 - Se debe implementar el algoritmo **Gradient Descent** utilizando la función *gradients* y actualizar los parámetros manualmente.
 - Utilizar la herramienta *Tensorboard* para visualizar el valor escalar **costo** al momento del entrenamiento y también poder visualizar el grafo.
 
-Solución: [Tarea No.1](RegresionLinealTF.ipynb)
+Solución: [Tarea No.1](TareaNo1.ipynb)
 
 ## Datos personales:
 José Fernando Pérez Pérez,
